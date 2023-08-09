@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-## About Me
+## Biography
 
-I am a Ph.D. student at ...
+I am a 3rd year Information Technology student at Camarines Sur Polytechnic Colleges.
 
-## Research Interests
+<!--## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
@@ -20,4 +20,6 @@ I am a Ph.D. student at ...
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %}-->
+
+{% include_relative _includes/contact.md %}
