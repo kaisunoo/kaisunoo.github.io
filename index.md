@@ -6,7 +6,7 @@ layout: homepage
 
 I am a 3rd year Information Technology student at Camarines Sur Polytechnic Colleges.
 
-## TDILs 
+## TILs 
 
 (On Progress...)
 
