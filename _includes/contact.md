@@ -4,6 +4,5 @@
 
 <p><strong>Address:</strong> 4432 Baao, Camarines Sur</a>
 <br />
-<strong>Email:</strong> <email>yliu538 (at) jhu.edu</email>
+<strong>Email:</strong> <email>kyespano (at) my.cspc.edu.ph</email>
 <br />
-<strong>Phone:</strong> (857) 209-8688</p>
