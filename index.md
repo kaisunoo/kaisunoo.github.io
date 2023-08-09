@@ -6,6 +6,10 @@ layout: homepage
 
 I am a 3rd year Information Technology student at Camarines Sur Polytechnic Colleges.
 
+## TDILs 
+
+(On Progress...)
+
 <!--## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
