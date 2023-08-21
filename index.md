@@ -4,11 +4,11 @@ layout: homepage
 
 ## Biography
 
-I am a 3rd year Information Technology student at Camarines Sur Polytechnic Colleges.
+She is a 3rd year Information Technology student at Camarines Sur Polytechnic Colleges.
 
 ## TILs 
 
-(On Progress...)
+(Unavailable)
 
 <!--## Research Interests
 
