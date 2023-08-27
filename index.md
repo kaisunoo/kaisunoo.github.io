@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-## Biography
+## Bio
 
-She is a 3rd year Information Technology student at Camarines Sur Polytechnic Colleges.
+I am currently pursuing my bachelor's degree in Information Technology at Camarines Sur Polytechnic Colleges.
 
 ## TILs 
 
