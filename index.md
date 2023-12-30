@@ -4,7 +4,7 @@ layout: homepage
 
 ## Bio
 
-I am currently pursuing my bachelor's degree in Information Technology at Camarines Sur Polytechnic Colleges. Member of Junior Philippine Computer Society - CSPC Chapter and CSPC - College Red Cross Youth Council.
+I am currently pursuing my bachelor's degree in Information Technology at Camarines Sur Polytechnic Colleges. Member of Junior Philippine Computer Society - CSPC Chapter.
 
 ## TILs 
 
