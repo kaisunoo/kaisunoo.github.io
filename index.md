@@ -6,11 +6,11 @@ layout: homepage
 
 I am currently pursuing my bachelor's degree in Information Technology at Camarines Sur Polytechnic Colleges. Member of Junior Philippine Computer Society - CSPC Chapter.
 
-## TILs 
+<!--## TILs 
 
 (Unavailable)
 
-<!--## Research Interests
+## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
