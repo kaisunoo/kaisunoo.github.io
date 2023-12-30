@@ -29,12 +29,12 @@ favicon_dark: ./assets/img/favicon-dark.png
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
-#footnote: Feel free to use my website's source code.
+#footnote: Powered by Jekyll and Minimal Light theme. Feel free to use my website's source code.
 #footnote_link: https://github.com/kaisunoo/kaisunoo.github.io
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: false
+auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
