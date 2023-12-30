@@ -3,7 +3,7 @@ title: Kyla Caryl Españo
 position: Information Technology Student
 affiliation: Camarines Sur Polytechnic Colleges
 affiliation_link: https://cspc.edu.ph/
-email: kyespano (at) my.cspc.edu.ph
+email: kyespano@my.cspc.edu.ph
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -17,14 +17,14 @@ canonical: https://kaisunoo.github.io/
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/kaisunoo
 linkedin: www.linkedin.com/in/kyespano
-twitter: https://twitter.com/kaisuno_o
+x: https://twitter.com/kaisuno_o
 linkfree: linkfree.io/kaisunoo
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: 
+favicon_dark: 
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -34,7 +34,7 @@ enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
